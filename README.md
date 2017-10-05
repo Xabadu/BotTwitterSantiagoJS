@@ -9,4 +9,4 @@ https://github.com/ttezel/twit
 
 Se aceptan PR o si tienes una idea la puedes dejar en un ISSUE.
 
-Gacias
+Gracias
