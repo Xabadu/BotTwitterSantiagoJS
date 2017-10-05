@@ -20,7 +20,7 @@ let reTweetById = (tweetId) => {
     });
 }
 
-let stream = client.stream('statuses/filter', {track: '#apple'})
+let stream = client.stream('statuses/filter', {track: '#SantiagoJS'})
 
 stream.on('tweet', function (tweet) {
     let tweetId = tweet.id_str;
