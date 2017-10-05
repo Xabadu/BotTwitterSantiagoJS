@@ -1,0 +1,14 @@
+{
+  "name": "stgojsbot",
+  "version": "1.0.0",
+  "description": "Bot para retweet el tag #SantiagoJS",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ender Bonnet",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
